@@ -30,6 +30,7 @@
     "@types/node": "~18.16.9",
     "eslint": "^9.8.0",
     "eslint-config-prettier": "^10.0.0",
+    "jest": "^30.0.5",
     "nx": "21.4.0",
     "prettier": "^2.6.2",
     "tslib": "^2.3.0",
